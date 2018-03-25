@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1"/>
+<meta charset="utf-8" />
+
+<title>TECNICO EN INFORMATICA</title>
+<link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+<body background="imagenes/rain.gif">
+<header>
+		<nav class="menu">
+			<ul >
+				<li><a href="index.html">Inicio</a></li>
+                                                       
+
+
+				<li><a href="quienes somos.html">Quienes somos</li></a>
+
+				<li><a href="tecinfo.html">Técnico en Informática</a>
+				<ul>
+					<li><a href="Sistemariego.html">Proyecto Transversal</li></a>
+					<li><a href="Pracobservacion.html">Practicas de Observación</li></a>
+					<li><a href="Pracejecucion.html">Practicas de Ejecución</li></a>
+					<li><a href="Estadias.html">Estadías</li></a>
+				</ul>
+
+				</li>
+
+
+				<li><a href="mapacurricular.html">Mapa Curricular</a></li>
+				<li><a href="convocatoria.html">Convocatoria</a></li>
+				<li><a href="galeria.html">Galeria</a></li>
+				<li><a href="talleres.html">Talleres</a></li>
+				<li><a href="ubicacion.html">Ubicación</a></li>
+			</ul>
+		</nav>
+	</header>
+<br><center><h1><font color="pink">TÉCNICO EN INFORMÁTICA</font></h1></center></br>
+<br><center><h1><font color="pink">Objetivo General</font></h1></center></br>
+<center><p><font color="white">Formar personas capaces de aplicar los principios de informatica, realizando documentos electronico, empleando software de diseño, aplicando los sistemas basicos de informacion, configurando redes en areas locales y realizando ensamblre, configuracion y mantenimiento de computadoras; asimismo con un amplio conocimiento y actitud de liderazgo, con la habilidad para establecer relaciones interpersonales.</font><p></center>
+<br><br><center><p aling="left"><img src="imagenes/CafeLiterario1.jpg" width="300" heigh="300"> <aling="center"><img src="imagenes/CafeLiterario2.jpg" width="300" heigh="300"> <aling="right"><img src="imagenes/Excurciones.jpg"width="300" heigh="300"></p></center></br> </br>
+<br><center><h1><font color="pink">Perfil de Ingreso</font></h1></center></br>
+<center><p><font color="white">El estudiante de la carrera en técnico en Informática, requiere  que posea ciertos aspectos que le permitan una plena integración en su campo disciplinar profesional, como son:
+• La habilidad para comunicarse apropiadamente e interpretar instrucciones escritas y verbales. • Razonamientoformal que le facilite la resolución de problemas lógicos ycotidianos. 
+• Disponibilidad para elaprendizaje ytrabajo colaborativo. 
+• Aplicación devalores universales. 
+• Capacidaddeconstrucción de supropio conocimiento. 
+• Sensibilidad a los aspectosecológicos ydeprotección al ambiente. 
+• Conocimientos dematemáticasbásicasyelmanejo de instrumentos de cálculo .
+</font><p></center>
+<br><center><p aling="left"><img src="imagenes/Info2.jpg" width="300" heigh="300"> <aling="center"><img src="imagenes/Info6.jpg" width="400" heigh="400"> <aling="right"><img src="imagenes/Info7.jpg"width="400" heigh="400"></p></center></br>
+
+
+<br><center><h1><font color="Pink">Perfil de Egreso</font></h1></center></br>
+<center><p><font color="white">El egresado de la carrera de Técnico en Informática, deberá ser una persona competente capaz de participar en el proceso informático, con una visión integradora mediante la aplicación de conocimientos y habilidades en el manejo de los recursos y el uso de las tecnologías modernas para la solución de problemas, aplicando métodos y fórmulas para realizar la gestión informática para unaorganización, ofrecer servicio yatención a los futuros clientes, con los cuales:
+HABILIDADES:
+•Ensambla, configura y mantiene equipos de cómputo 
+•Diseña bases de datos. 
+•Analiza procesos relacionados con el manejo de información. 
+•Diseña sistemas  para automatizar procesos relacionados con el manejo de datos. 
+•Manejo de diagramas UML. •Conexión de redes de computadoras, 
+•Manejo del lenguaje de programación orientado a objetos. 
+•Manejo de software de diseño para multimedia y páginas web. 
+•Desarrolla proyectos  o planes de negocio para la conformación de microempresas.
+CONOCIMIENTOS:
+•Clasificación de Hardware 
+•Clasificación de Software 
+•Construcción de diagramas relacionales para bases de datos. 
+•Conocimiento e interpretación de diagramas UML. 
+•Análisis y Diseño de Sistemas  Informático. 
+•Redes de computadoras, Protocolos de transferencia, modelo OSI y modelo TCP/IP. 
+•Multimedia y web. 
+•Estructura del plan de negocios.
+</font><p></center>
+<br><center><p aling="left"><img src="imagenes/egreso1.jpg" width="400" heigh="400"> <aling="center"><img src="imagenes/valores1.jpg" width="400" heigh="400"> <aling="right"><img src="imagenes/egreso2.jpg"width="400" heigh="400"></p></center></br>
+
+</body>
+</html>
